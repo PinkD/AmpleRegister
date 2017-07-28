@@ -1,4 +1,10 @@
 from register import Register
 
-print(Register('AGM2','11111111',')6kAAkhtkp?ko?kzC#CCk))khzkAbkP?kzu#CAkCCkubkCCkCCkhC#CCkoAkP)kPuk36k?t#CCkoAkP)kPuk36k?o#CCkoAkP)kPuk36k?w#').get_key())
+print('Please input software abbreviation(default:AGG2):')
+software = input()
+print('Please input user id(default:123456):')
+uid = input()
+print('Please input challenge code:')
+challenge_code = input()
 
+print('Your key is ' + Register(uid, challenge_code, software).get_key())
