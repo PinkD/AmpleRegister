@@ -14,7 +14,7 @@ Ample Sound 的注册机
 
 ## 0x03
 
-破解过程在 [我的blog](http://blog.pinkd.online/others/2017/07/28/Ample-Sound-Reverse) 里。
+破解过程在 [我的blog](https://blog.pinkd.moe/others/2017/07/28/Ample-Sound-Reverse) 里。
 
 ## 0x04
 
